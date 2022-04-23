@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @smasharoo
-- 👀 I’m interested in computers and finance
-- 🌱 I’m currently learning :)
-- 💞️ I’m looking to collaborate if all else fails
-- 📫 How to reach me email, bet you can guess it
+- 👀 I’m interested in cigarettes
+- 🌱 I’m currently terrible :')
+- 💞️ I’m looking to collaborate 
+- 📫 How to reach me 
 
 <!---
 smasharoo/smasharoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
